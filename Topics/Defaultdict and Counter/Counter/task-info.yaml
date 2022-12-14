@@ -1,0 +1,18 @@
+type: choice
+is_multiple_choice: false
+options:
+- text: <code>0</code><br><code>1</code><br><code>1</code>
+- text: <code>0</code><br><code>1</code><br><code>0</code>
+- text: <code>KeyError</code>
+- text: <code>1</code><br><code>1</code><br><code>1</code>
+files:
+- name: main.py
+  visible: true
+  text: |+
+    #  You can experiment here, it won’t be checked
+
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/19762#comment
+status: Solved
+record: -1
+local_check: false

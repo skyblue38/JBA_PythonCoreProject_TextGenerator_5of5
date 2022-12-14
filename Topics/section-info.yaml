@@ -1,0 +1,8 @@
+content:
+- Escaping in regexps
+- Regexp sets and ranges
+- Shorthands
+- Regexp quantifiers
+- Tokenization
+- Program with numbers
+- Defaultdict and Counter

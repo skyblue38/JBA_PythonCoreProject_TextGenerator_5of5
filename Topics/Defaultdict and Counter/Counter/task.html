@@ -1,0 +1,13 @@
+<h2>Counter</h2>
+<html><body><p>Look at the code below:</p>
+<pre><code class="language-python">from collections import Counter
+
+text = ("Chessboard is a square board divided into sixty-four alternating dark and light squares, used for "
+        "playing chess or draughts.")
+text_list = text.lower().split()
+
+freq_counter = Counter(text_list)</code></pre>
+<p>What will be the output of the following code?</p>
+<pre><code class="language-python">print(freq_counter["draughts"])
+print(freq_counter["square"])
+print(freq_counter["chessboard"])</code></pre></body></html>

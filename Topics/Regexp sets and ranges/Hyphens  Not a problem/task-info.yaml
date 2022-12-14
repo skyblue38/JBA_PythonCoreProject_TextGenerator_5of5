@@ -1,0 +1,17 @@
+type: code
+custom_name: Hyphens? Not a problem!
+files:
+- name: main.py
+  visible: true
+  text: |-
+    import re
+
+    # your code here
+    word = input()
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/15079#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Fri, 09 Dec 2022 08:13:06 UTC"
+record: -1
